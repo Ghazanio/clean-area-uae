@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://uae-clean-area.pages.dev/sitemap.xml
